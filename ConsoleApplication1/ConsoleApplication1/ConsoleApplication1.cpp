@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : コンソール アプリケーションのエントリ ポイントを定義します。
+// ConsoleApplication1.cpp : 繧ｳ繝ｳ繧ｽ繝ｼ繝ｫ 繧｢繝励Μ繧ｱ繝ｼ繧ｷ繝ｧ繝ｳ縺ｮ繧ｨ繝ｳ繝医Μ 繝昴う繝ｳ繝医ｒ螳夂ｾｩ縺励∪縺吶�
 //
 
 #include "stdafx.h"
@@ -6,6 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	//test git
 	return 0;
 }
 
